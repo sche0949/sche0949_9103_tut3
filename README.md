@@ -13,7 +13,7 @@ This is my second commit!
 
 *Italic text*
 
-**List**
+**Lists**
 
 - Item 1
 - Item 2
