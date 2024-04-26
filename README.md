@@ -9,7 +9,9 @@ This is my second commit!
 ## Heading 2
 ### Heading 3
 
-**Bold Text**
+**Lists**
 
-*Italic text*
-
+- Item 1
+- Item 2
+    - Sub item 1
+    - Sub item 2
